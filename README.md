@@ -15,6 +15,6 @@ This project analyzes Netflix dataset using Python and Pandas.
 - Pandas
 - CSV dataset
 ## Project Output
-![Output Screenshot](output1.png)
+![Output Screenshot](C:\Users\parin\OneDrive\Pictures\Screenshots)
 ![Output Screenshot](output2.png)
 ![Output Screenshot](output3.png)
